@@ -4,7 +4,7 @@ import java.io.PrintWriter;
 import java.util.HashSet;
 import java.util.Scanner;
 
-public class Project3{
+public class Main{
     public static void main(String[] args) throws FileNotFoundException {
 
         PrintWriter outwriter = new PrintWriter(args[2]);
